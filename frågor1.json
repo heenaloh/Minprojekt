@@ -1,0 +1,242 @@
+[
+  {
+    "Fråga": "gillar du springa?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      9,
+      6,
+      4,
+      0
+    ],
+    "Nej": [
+      0,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "Fråga": "har du råd att ta husdjur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      5,
+      3,
+      1
+    ],
+    "Nej": [
+      0,
+      7,
+      4,
+      1
+    ]
+  },
+  {
+    "Fråga": "har du plats för husdjur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      8,
+      5,
+      3,
+      0
+    ],
+    "Nej": [
+      0,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "Fråga": "gillar du mjuka djur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      5,
+      3,
+      1
+    ],
+    "Nej": [
+      1,
+      5,
+      8,
+      0
+    ]
+  },
+  {
+    "Fråga": "vill du ha en stor djur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      2,
+      0
+    ],
+    "Nej": [
+      0,
+      2,
+      1,
+      8
+    ]
+  },
+  {
+    "Fråga": "tycker du oljud?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      3,
+      0
+    ],
+    "Nej": [
+      0,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "Fråga": "har du nogot allergi?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      0,
+      5,
+      7,
+      10
+    ],
+    "Nej": [
+      10,
+      7,
+      6,
+      0
+    ]
+  },
+  {
+    "Fråga": "är du en aktiv person?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      8,
+      4,
+      2,
+      0
+    ],
+    "Nej": [
+      0,
+      2,
+      1,
+      10
+    ]
+  },
+  {
+    "Fråga": "har du något annant som kan sköta ditt husdjur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      3,
+      1,
+      0
+    ],
+    "Nej": [
+      0,
+      3,
+      1,
+      10
+    ]
+  },
+  {
+    "Fråga": "kan du satsa din tid?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      3,
+      0
+    ],
+    "Nej": [
+      0,
+      2,
+      4,
+      1
+    ]
+  },
+  {
+    "Fråga": "kan du satsa dina pengar för din husdjur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      4,
+      0
+    ],
+    "Nej": [
+      0,
+      5,
+      7,
+      10
+    ]
+  },
+  {
+    "Fråga": "är alla familj medlemmar redo för en husdjur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      4,
+      0
+    ],
+    "Nej": [
+      6,
+      4,
+      2,
+      10
+    ]
+  },
+  {
+    "Fråga": "äter din djur pizza?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      4,
+      0
+    ],
+    "Nej": [
+      1,
+      3,
+      6,
+      10
+    ]
+  },
+  {
+    "Fråga": "rekommmenderar du en intrektiv djur?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      10,
+      6,
+      4,
+      0
+    ],
+    "Nej": [
+      10,
+      7,
+      3,
+      1
+    ]
+  },
+  {
+    "Fråga": "har du barn?",
+    "alternativ": "Hund,katt,kanin,fisk",
+    "Ja": [
+      6,
+      5,
+      4,
+      0
+    ],
+    "Nej": [
+      10,
+      8,
+      6,
+      0
+    ]
+  }
+]
